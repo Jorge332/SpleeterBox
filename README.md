@@ -3,6 +3,8 @@
 <br>
 <br>
 
+if you have any question you can mail me to: spleeterbox@gmail.com
+
 I created this GUI implementation due to the requests on Dylan Tallchief’s video about the Library, I think this way is better than writing the command using CMD or Powershell every time you want to separate a song. <br>
 
 <b>This implementation requires:</b> <br>
