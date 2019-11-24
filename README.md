@@ -67,4 +67,4 @@ These are the ways you can split the audio, you just need to select the one you 
 Well building this implementation took a fair amount of time and effort, It was quite fun to learn some Python along the way and it expanded my horizons too, I hope at least some people find this useful. <br> <br> 
 <b>Jorge E. Ramirez Porras. aka Jaime Rojas</b>
   
-
+For more information on the spleeter project please visit https://github.com/deezer/spleeter
