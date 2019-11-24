@@ -25,12 +25,12 @@ The duration of the <b>first</b> time you use every model (Separation Option) wi
  5 Stems -> 189 MB <br>
 
 # Usage
-The usage is very simple, first you just need to make sure you had installed and tested python and spleeter as explained in Dylan's Video (The one up there &#8593;), once you have done that you just need to download this project as a .zip
+The usage is very simple, first you just need to make sure you had installed and tested python and spleeter <b>(And Everything it needs to work) as explained in Dylan's Video (The one up there &#8593;)</b>, once you have done that you just need to download this project as a .zip
 <br>
 <img src="Images/Download.png" width="">
 
 Once you have the zip file you just need to extract the folder using Winrar or windows default zip files manager, then you should move the folder to a location like <b>My Documents</b> just to make sure you won't delete it by accident, then when you have the folder with the files in a secure place you just need to go inside it and double click the .cmd file to execute the python app.<br>
-(<b>For an easy use you can just create a shortcut of this file in Desktop to access it in the future</b>)
+(<b>For an easy use you can just create a shortcut of this file in your Desktop to access it in the future</b>)
 <br>
 <br>
 <img src="Images/cmdexe.png" width="">
