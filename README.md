@@ -1,24 +1,25 @@
 # SpleeterBox
-This an implementation of Deezer's Spleeter library, that allows audio separation through the use of Machine Learning,this project it's nothing fancy but I hope it helps some people out there. 
+SpleeterBox is an implementation of Deezer's Spleeter library, that allows audio separation through the use of Machine Learning, this project is nothing fancy but I hope it helps some people out there. 
 <br>
 <br>
 
-I builded this GUI implementation due to the requests on Dylan Tallchief’s video about the Library, I think it’s better than writing the command line every time you want to separate a song. <br>
+I created this GUI implementation due to the requests on Dylan Tallchief’s video about the Library, I think this way is better than writing the command using CMD or Powershell every time you want to separate a song. <br>
 
+<b>Relevant Info<b/>: <br>
 Dylan's Video: https://www.youtube.com/watch?v=tgnuOSLPwMI
 
 If you guys find it useful you can <br>
 invite me a coffee via paypal here <br>
-Donation: https://paypal.me/jramirezp332?locale.x=es_XC
+<b>Donations<b/>: https://paypal.me/jramirezp332?locale.x=es_XC
 
 # First Use
-When you first Use the GUI App it will take a while to finish the splitting process, this happens cause it needs to download the pretrained models from Deezer's sources, then the app creates a folder inside the SpleeterBox folder named pretrained_models and it stores the models there, this process is the same for every new model you use (every separation option), but it happens just the first time you use every option, then when you use that option again it will be a lot faster cause it already saved the models.
+When you first Use the GUI App it will take a while to finish the separation process, this happens since it needs to download the pretrained models from Deezer's sources, then the app creates a folder inside the SpleeterBox folder named pretrained_models and it stores the models there, this process is the same for every new model you use (every separation option), but it happens just the first time you use every option, then when you use that option again it will be a lot faster cause it already saved the models.
 The duration of the first time you use every model (Separation Option) will depend on your connection speed
 
-<b>Pretrained Models Estimated Sizes<b/>
- 2 Stems -> 75,7 MB
- 4 Stems -> 151 MB
- 5 Stems -> 189 MB
+<b>Pretrained Models Estimated Sizes<b/> <br>
+ 2 Stems -> 75,7 MB <br>
+ 4 Stems -> 151 MB <br>
+ 5 Stems -> 189 MB <br>
 
 # Usage
 The usage is very simple, first you just need to make sure you had installed and tested python and spleeter as explained in Dylan's Video (The one up there &#8593;), once you have done that you just need to download this project as a .zip
