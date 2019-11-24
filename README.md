@@ -5,6 +5,15 @@
 
 I created this GUI implementation due to the requests on Dylan Tallchief’s video about the Library, I think this way is better than writing the command using CMD or Powershell every time you want to separate a song. <br>
 
+<b>This implementation requires:</b> <br>
+Windows 10 64 bits <br>
+Python 3.7.5 <br>
+Spleeter Library <br>
+FFmpeg <br>
+Everything here is explained in Dylan's video &#8593;.
+<br>
+<br>
+
 <b>Relevant Info</b>: 
 <br>
 <br>
