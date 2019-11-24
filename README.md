@@ -1,5 +1,5 @@
 # SpleeterBox
-SpleeterBox is an implementation of Deezer's Spleeter library, that allows audio separation through the use of Machine Learning, this project is nothing fancy but I hope it helps some people out there. 
+<b>SpleeterBox</b> is an implementation of Deezer's Spleeter library, that allows audio separation through the use of Machine Learning, this project is nothing fancy but I hope it helps some people out there. 
 <br>
 <br>
 
@@ -16,7 +16,8 @@ invite me a coffee via paypal here <br>
 
 # First Use
 When you first Use the GUI App it will take a while to finish the separation process, this happens since it needs to download the pretrained models from Deezer's sources, then the app creates a folder inside the SpleeterBox folder named pretrained_models and it stores the models there, this process is the same for every new model you use (<b>every separation option</b>), but it happens just the first time you use every option, then when you use that option again it will be a lot faster cause it already saved the models.
-The duration of the first time you use every model (Separation Option) will depend on your connection speed
+<br>
+The duration of the <b>first</b> time you use every model (Separation Option) will depend on your connection speed, past the first time you use a Separation Option you can use it Offline since it already downloaded the pretrained modules.
 
 <b>Pretrained Models Estimated Sizes</b> <br>
  2 Stems -> 75,7 MB <br>
@@ -28,16 +29,18 @@ The usage is very simple, first you just need to make sure you had installed and
 <br>
 <img src="Images/Download.png" width="">
 
-Once you have the zip file you just need to extract the folder using Winrar or windows default zip files manager, then you should move the folder to a location like My Documents just to make sure you won't delete it by accident then when you have the folder with the files in a secure place you just need to go inside it and double click the .cmd file to execute the python app
+Once you have the zip file you just need to extract the folder using Winrar or windows default zip files manager, then you should move the folder to a location like <b>My Documents</b> just to make sure you won't delete it by accident, then when you have the folder with the files in a secure place you just need to go inside it and double click the .cmd file to execute the python app.<br>
+(<b>For an easy use you can just create a shortcut of this file in Desktop to access it in the future</b>)
+<br>
 <br>
 <img src="Images/cmdexe.png" width="">
 
- Then it will open a window like this
+ Then it should open a window like this one
 
 <br>
 <img src="Images/OpenCMD.png" width="">
 
-It opens a CMD Window as well but you don't have to worry about it, you can just minimize that one and use the GUI window 
+It opens a CMD Window as well but you don't have to worry about it, you can just minimize that one and use the GUI window. 
 
 # Interaction
 
@@ -51,7 +54,7 @@ There are 3 buttons you can interact with
 
 <b>Separation Options:</b>
 
-These are the ways you can split the audio, you just need to click the one you desire and then click on the Separete Audio button start the process
+These are the ways you can split the audio, you just need to select the one you desire and then click on the Separete Audio button start the process
 <br>
 <img src="Images/options.png" width="">
 
@@ -59,5 +62,9 @@ These are the ways you can split the audio, you just need to click the one you d
 <b>Deezer</b> will probably update their pretrained models in the future so in order to update the ones inside the App you just need to go inside the SpleeterBox folder(where ever you put it) and then go inside the pretrained_models folder and delete the one you desire to update, and then the next time you use that option it will download the latest model from Deezer's Sources
  
 <img src="Images/UpdateModels.png" width="">
+
+# Final thoughts
+Well building this implementation took a fair amount of time and effort, It was quite fun to learn some Python along the way and it expanded my horizons too, I hope at least some people find this useful. <br> <br> 
+<b>Jorge E. Ramirez Porras. aka Jaime Rojas</b>
   
 
