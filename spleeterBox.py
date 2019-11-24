@@ -158,17 +158,17 @@ if __name__ == "__main__":
     var.set(1)  # Set option 1 as default
 
     global rb2Stems
-    rb2Stems = tk.Radiobutton(root, text="Vocals/accompaniment", variable=var, value=1)
+    rb2Stems = tk.Radiobutton(root, text="Vocals/accompaniment (2 stems)", variable=var, value=1)
     rb2Stems.place(relwidth=0.5, relheight=0.1, relx=0.25, rely=0.55)
 
 
     global rb4Stems
-    rb4Stems = tk.Radiobutton(root, text="Vocals/drums/bass/other", variable=var, value=2)
+    rb4Stems = tk.Radiobutton(root, text="Vocals/drums/bass/other (4 stems)", variable=var, value=2)
     rb4Stems.place(relwidth=0.5, relheight=0.1, relx=0.25, rely=0.65)
 
 
     global rb5Stems
-    rb5Stems = tk.Radiobutton(root, text="Vocals/drums/bass/piano/other", variable=var, value=3)
+    rb5Stems = tk.Radiobutton(root, text="Vocals/drums/bass/piano/other (5 stems)", variable=var, value=3)
     rb5Stems.place(relwidth=0.5, relheight=0.1, relx=0.25, rely=0.75)
 
     global btnSeparate
