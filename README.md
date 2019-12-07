@@ -10,7 +10,7 @@ I created this GUI implementation due to the requests on Dylan Tallchief’s vid
 <b>This implementation requires:</b> <br>
 Windows 10 64 bits <br>
 Python 3.7.5 <br>
-Spleeter Library <br>
+Spleeter Library version 1.4.8 <br>
 FFmpeg <br>
 Everything here is explained in Dylan's video &#8593;.
 <br>
