@@ -9,7 +9,7 @@ from tkinter import RAISED
 import os
 
 from spleeter.separator import Separator
-from spleeter.utils.audio.adapter import get_default_audio_adapter
+from spleeter.audio.adapter import get_default_audio_adapter
 
 import subprocess
 import threading
