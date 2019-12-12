@@ -16,10 +16,12 @@ Everything here is explained in Dylan's video &#8593;.
 <br>
 <br>
 
-<b>Relevant Info</b>: 
+<b>Relevant Info</b> 
 <br>
 <br>
 Dylan's Video: https://www.youtube.com/watch?v=tgnuOSLPwMI
+
+<h2>-->> Donations <<--</h2>
 
 If you guys find it useful you can <br>
 invite me a coffee via paypal here <br>
