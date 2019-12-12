@@ -23,8 +23,9 @@ Dylan's Video: https://www.youtube.com/watch?v=tgnuOSLPwMI
 
 If you guys find it useful you can <br>
 invite me a coffee via paypal here <br>
-<b>Donations</b>: https://paypal.me/jramirezp332?locale.x=es_XC
-
+<b>Paypal</b>: https://paypal.me/jramirezp332?locale.x=es_XC  </br>
+Or via Ko-fi here </br>
+<b>Ko-fi</b>: https://ko-fi.com/jorgeerp332
 # First Use
 When you first Use the GUI App it will take a while to finish the separation process, this happens since it needs to download the pretrained models from Deezer's sources, then the app creates a folder inside the SpleeterBox folder named pretrained_models and it stores the models there, this process is the same for every new model you use (<b>every separation option</b>), but it happens just the first time you use every option, then when you use that option again it will be a lot faster cause it already saved the models.
 <br>
